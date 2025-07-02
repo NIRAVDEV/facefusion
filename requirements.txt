@@ -6,4 +6,4 @@ onnxruntime-gpu==1.17.0      # GPU support, ensure CUDA is properly installed
 opencv-python==4.8.1.78      # 4.11.0.86 may not exist, this is latest known stable
 psutil==5.9.8                # 7.0.0 not released yet; use latest stable
 tqdm==4.67.1
-scipy==1.11.4                # 1.15.2 not released; use compatible version
+scipy==1.10.1             # 1.15.2 not released; use compatible version
